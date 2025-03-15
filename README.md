@@ -31,7 +31,7 @@ Note I have already created over a million tokens with this generator. As I have
  
  <div id="preview"></div>
  
- <img src="https://imagedelivery.net/A5gbiev6F8AaBvp6M146Kw/06595497-b5a0-4813-1a44-e681bbb8f100/w=1500" width="1100" height="551">
+ <img src="https://imagedelivery.net/A5gbiev6F8AaBvp6M146Kw/06595497-b5a0-4813-1a44-e681bbb8f100/w=1500" width="1200" height="551">
  
 ```dif
 Time Elapsed: 100s | Tokens Generated: 2,290 | Threads: 70 | Websockets Open: 54 | Unlock Rate: 99.681%
